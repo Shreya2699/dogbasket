@@ -1,0 +1,137 @@
+.basket{
+    background: url("https://images.unsplash.com/photo-1525253013412-55c1a69a5738?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JvdXAlMjBvZiUyMHB1cHBpZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+    height:812px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    color:white;
+    text-shadow:  0 0 3px #FF0000, 0 0 5px #0000FF;
+    
+}
+.heading{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 100px;
+
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+#bn1{
+    margin-top: 40px;
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+
+}
+.single{
+    color:#FC427B;
+}
+#b1{
+    border: transparent;
+    color: white;
+    text-decoration: none;
+}
+#b2{
+    
+    color:#74b9ff;
+
+}
+.about{
+  
+    height:auto;
+    background:url("https://i.pinimg.com/originals/62/02/2b/62022b20e22d6a1aa7133503122c8bb1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ic1{
+    height:200px;
+    width:200px;
+    float:left;
+    padding:5px;
+    
+   
+}
+.ic2{
+    
+    float:right;
+    padding:5px;
+    height:200px;
+    width:200px;
+    
+   
+
+}
+.ab1{
+    text-align: center;
+    font-size: 40px;
+    color:#cd6133;
+    height:60px;
+    font-weight: bold;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    background-color: #f5cd79;
+    margin-top:10px;
+}
+.tagline{
+    text-align: center;
+    padding:20px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    color:#c44569;
+}
+.trending{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height:auto;
+    padding:30px;
+    background:url("https://acegif.com/wp-content/gif/confetti-52.gif")
+}
+.card{
+    margin:5px;
+    color:#FF0000;
+    border: #c44569;
+    font-family: 'Roboto', sans-serif;
+}
+#cl1{
+    height:250px;
+   
+
+}
+.contact{
+    padding:80px;
+    background:url("https://i.pinimg.com/originals/62/02/2b/62022b20e22d6a1aa7133503122c8bb1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ic5{
+    height:250px;
+    width:250px
+}
+.features{
+    display:flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: 30px;
+    flex-wrap: wrap;
+    color:#40407a;
+    background:url("https://i.pinimg.com/originals/62/02/2b/62022b20e22d6a1aa7133503122c8bb1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto
+
+}
+
+.Footer{
+    text-align: center;
+    background-color: #a4b0be;
+    padding:20px;
+}
